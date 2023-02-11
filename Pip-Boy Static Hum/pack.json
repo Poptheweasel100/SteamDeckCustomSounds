@@ -1,0 +1,10 @@
+{
+  "name": "Fallout: Pip-Boy Static Ambience",
+  "description": "Pip-Boy static ambience from Fallout 3 and New Vegas.",
+  "author": "Poptheweasel100",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
