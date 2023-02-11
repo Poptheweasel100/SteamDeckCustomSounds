@@ -1,0 +1,10 @@
+{
+  "name": "Sonic Mega Collection: Extras",
+  "description": "Enjoy the soothing nostalgic museum theme from Sonic Mega Collection.",
+  "author": "Poptheweasel100",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
